@@ -21,7 +21,7 @@ Responsive design for a seamless experience across devices.
 
 ## Demo
 
-Check out the live demo here (replace with your demo link).
+Check out the live demo here [CLICK HERE](https://theshaguntyagi.github.io/Loginformwithcaptcha/).
 
 ## Technologies Used
 
